@@ -2,6 +2,7 @@
 
 - Data cleaning 
 - Exploratory Data Analysis
+- Predictive modeling 
 
 # Dataset Description 
 The dataset used in this analysis is stored in the file sample_sales_data.csv. It includes the following columns:
